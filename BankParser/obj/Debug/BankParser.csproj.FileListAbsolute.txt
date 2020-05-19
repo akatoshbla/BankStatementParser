@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\bin\Debug\BankParser.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\bin\Debug\BankParser.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\bin\Debug\BankParser.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.main.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.Modal.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\comp565\MonoGame\BankParser\BankParser\obj\Debug\BankParser.csprojResolveAssemblyReference.cache
